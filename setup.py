@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[],
     author="Dvorhack",
-    author_email="andy@dont_spam_me.co",
+    author_email="paul@serviel.fr",
     description="A simple example private package",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
